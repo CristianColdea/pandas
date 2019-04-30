@@ -1,3 +1,2 @@
 # pandas
-This is the Pandas course from Coursera and University of Michigan. Tasks are defined in the notebooks.
-Only the programming assignments are presented, without quizzes.
+This is the Pandas course from Coursera and University of Michigan. Only the courses with programming assignments are in the repository, without the quiz answers. Tasks are defined in the notebooks.
